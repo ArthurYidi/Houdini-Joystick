@@ -1,3 +1,7 @@
+# Houdini Joystick
+
+Connect your favorite joystick/controller to Houdini!
+
 ### How To
     pypy joystick.py
 
