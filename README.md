@@ -6,7 +6,7 @@ Connect your favorite joystick/controller to Houdini!
     pypy joystick.py
 
 - Use a `Pipe In` CHOP Node to get data from joystick.
-- See provided `.hip` for example on how to use.
+- See provided `.hip` example on how to use.
 
 ### Dependencies
 - SDL
@@ -14,5 +14,5 @@ Connect your favorite joystick/controller to Houdini!
 -----------
 
 ### Resources
-Game Controller DB:
-https://raw.githubusercontent.com/gabomdq/SDL_GameControllerDB/master/gamecontrollerdb.txt
+- [PySDL2](https://bitbucket.org/marcusva/py-sdl2)
+- [Game Controller DB](https://raw.githubusercontent.com/gabomdq/SDL_GameControllerDB/master/gamecontrollerdb.txt)
