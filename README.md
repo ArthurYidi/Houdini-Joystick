@@ -3,7 +3,7 @@
 Connect your favorite joystick/controller to Houdini!
 
 ### How To
-    pypy joystick.py
+    $ python joystick.py
 
 - Use a `Pipe In` CHOP Node to get data from joystick.
 - See provided `.hip` example on how to use.
