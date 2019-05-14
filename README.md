@@ -1,3 +1,9 @@
+Houdini now has a `gamepad` channel node:
+
+https://www.sidefx.com/docs/houdini/nodes/chop/gamepad.html
+
+-----
+
 # Houdini Joystick
 
 Connect your favorite joystick/controller to Houdini!
